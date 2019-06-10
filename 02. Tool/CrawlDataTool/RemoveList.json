@@ -6,119 +6,155 @@
 		},
 		{
 			"Id":"2",
-			"Pattern":"^\\s*Nếu chưa có ViệtID.*\\n"
-		},
-		{
-			"Id":"3",
 			"Pattern":"^\\s*Nếu đã có tài khoản Viet ID, bạn hãy đăng nhập ở đây\\.\\r?\\n"
 		},
 		{
-			"Id":"4",
+			"Id":"3",
 			"Pattern":"^\\s*Bạn là 1 VCer\\? Bạn đang làm.*\\n"
 		},
 		{
-			"Id":"5",
+			"Id":"4",
 			"Pattern":"^\\s*Ghi rõ nguồn \"CafeF\" khi phát hành lại thông tin từ kê.*\\n"
 		},
 		{
-			"Id":"6",
+			"Id":"5",
 			"Pattern":"^\\s*ViệtID là hệ thống chính thức.*\\n"
 		},
 		{
-			"Id":"7",
+			"Id":"6",
 			"Pattern":"^\\s*Việc sử dụng dịch vụ đăng nhập của ViệtID giúp.*\\n"
 		},
 		{
-			"Id":"8",
+			"Id":"7",
 			"Pattern":"^\\s*Tài khoản cũ của tất cả các thành viên tại CafeF.*\\n"
 		},
 		{
-			"Id":"9",
+			"Id":"8",
 			"Pattern":"^\\s*Từ bây giờ tài khoản ViệtID của bạn.*\\n"
 		},
 		{
-			"Id":"10",
+			"Id":"9",
 			"Pattern":"^\\s*\"Văn hóa VC\" – cụm từ nghe có.*\\n"
 		},
 		{
-			"Id":"11",
+			"Id":"10",
 			"Pattern":"^\\s*.*\".*"
 		},
 		{
-			"Id":"12",
+			"Id":"11",
 			"Pattern":"^\\s*.*“.*"
 		},
 		{
-			"Id":"13",
+			"Id":"12",
 			"Pattern":"^\\s*.*®.*"
 		},
 		{
-			"Id":"14",
+			"Id":"13",
 			"Pattern":"^ "
 		},
 		{
-			"Id":"15",
+			"Id":"14",
 			"Pattern":"^\\s*.*'.*"
 		},
 		{
-			"Id":"16",
+			"Id":"15",
 			"Pattern":"^\\s*.*:.*"
 		},
 		{
-			"Id":"17",
+			"Id":"16",
 			"Pattern":"^\\s*.*‘.*"
 		},
 		{
-			"Id":"18",
+			"Id":"17",
 			"Pattern":"^\\s*.*-.*"
 		},
 		{
-			"Id":"19",
+			"Id":"18",
 			"Pattern":"^\\s*.*–.*"
 		},
 		{
-			"Id":"20",
+			"Id":"19",
 			"Pattern":"^\\s*.*\\.\\.\\. .*"
 		},
 		{
-			"Id":"21",
+			"Id":"20",
 			"Pattern":"^\\s*.*\\.\\.\\.\\w+.*"
 		},
 		{
-			"Id":"22",
+			"Id":"21",
 			"Pattern":"^\\s*.*\\(.*"
 		},
 		{
-			"Id":"23",
+			"Id":"22",
 			"Pattern":"^\\s*.*© VnExpress giữ bản quyền nội dung trên website này.*"
 		},
 		{
-			"Id":"24",
+			"Id":"23",
 			"Pattern":"^\\s*.*”.*"
 		},
 		{
-			"Id":"25",
+			"Id":"24",
 			"Pattern":"^\\s*.* is .*"
 		},
 		{
-			"Id":"26",
+			"Id":"25",
 			"Pattern":"^\\s*.*©.*"
 		},
 		{
-			"Id":"27",
+			"Id":"26",
 			"Pattern":"^\\s*.* automatically redirected to set up.*"
 		},
 		{
-			"Id":"28",
+			"Id":"27",
 			"Pattern":"^\\s*.*o statement of claim the.*"
 		},
 		{
-			"Id":"29",
+			"Id":"28",
 			"Pattern":"^\\s*.*com makes no statement of claim.*"
 		},
 		{
-			"Id":"30",
+			"Id":"29",
 			"Pattern":"^\\s*.*registration was accepted.*"
+		},
+		{
+			"Id":"30",
+			"Pattern":"^\\s*.*….*"
+		},
+		{
+			"Id":"31",
+			"Pattern":"^\\s*.*’.*"
+		},
+		{
+			"Id":"32",
+			"Pattern":"^\\s*.*™.*"
+		},
+		{
+			"Id":"33",
+			"Pattern":"^\\s*Nếu chưa có ViệtID.*"
+		},
+		{
+			"Id":"34",
+			"Pattern":"^\\s*½.*"
+		},
+		{
+			"Id":"35",
+			"Pattern":"^\\s*’.*"
+		},
+		{
+			"Id":"36",
+			"Pattern":"^\\s*°.*"
+		},
+		{
+			"Id":"37",
+			"Pattern":"^\\s*•.*"
+		},
+		{
+			"Id":"38",
+			"Pattern":"^\\s*;.*"
+		},
+		{
+			"Id":"39",
+			"Pattern":"^\\s*.*;.*"
 		}
 	]
 }
